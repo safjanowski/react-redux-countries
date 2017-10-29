@@ -5,7 +5,7 @@ const CountryFlag = props => (
     <img
       className="country-logo"
       src={props.country.imageUrl}
-      alt="country photo"
+      alt="country flag"
     />
   </div>
 );
